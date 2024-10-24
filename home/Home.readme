@@ -1,0 +1,5 @@
++add_room(room:Room)
++get_Total_Area()
++get_Floor_Area(floor:number)
++get_Living_Area()
++get_Nb_Bedrooms()
